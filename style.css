@@ -1,0 +1,28 @@
+/*general*/
+body{
+    background: url("../img/Desert.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+h1, h2,h3{
+    /*font-size: 50px;*/
+    color: red;
+}
+
+.border{
+    border-bottom: 2px dashed red;
+
+}
+.ul_border{
+    width: 100px;
+}
+.ul_border li{
+    display: inline-block;
+    border-bottom: 2px dashed red;
+
+}
+
+/*general*/
+/*Home*/
+
+/*Home*/
